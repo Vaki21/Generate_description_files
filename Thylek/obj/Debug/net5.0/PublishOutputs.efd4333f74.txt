@@ -1,0 +1,5 @@
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\publish\Thylek.exe
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\publish\Thylek.dll
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\publish\Thylek.deps.json
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\publish\Thylek.runtimeconfig.json
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\publish\Thylek.pdb

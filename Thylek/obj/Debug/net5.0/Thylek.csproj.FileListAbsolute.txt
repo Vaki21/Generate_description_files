@@ -1,0 +1,16 @@
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\Thylek.exe
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\Thylek.deps.json
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\Thylek.runtimeconfig.json
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\Thylek.runtimeconfig.dev.json
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\Thylek.dll
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\ref\Thylek.dll
+C:\Users\bonef\source\repos\Thylek\bin\Debug\net5.0\Thylek.pdb
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.csproj.AssemblyReference.cache
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.AssemblyInfoInputs.cache
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.AssemblyInfo.cs
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.csproj.CoreCompileInputs.cache
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.dll
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\ref\Thylek.dll
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.pdb
+C:\Users\bonef\source\repos\Thylek\obj\Debug\net5.0\Thylek.genruntimeconfig.cache

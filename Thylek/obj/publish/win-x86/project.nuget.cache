@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MMwO9TAE3e2jkEm70UtwCoeD6lizd/6J1kCGZJkafAnuDlL3RA81/twsS1FQNvbjN5LFK9uPXcP3SId1Z1QUhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bonef\\source\\repos\\Thylek\\Thylek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bonef\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.13\\microsoft.netcore.app.runtime.win-x86.5.0.13.nupkg.sha512",
+    "C:\\Users\\bonef\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.13.nupkg.sha512",
+    "C:\\Users\\bonef\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.13\\microsoft.aspnetcore.app.runtime.win-x86.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
